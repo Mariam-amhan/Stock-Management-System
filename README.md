@@ -37,6 +37,3 @@ A desktop stock management application developed using C# and Windows Forms.
 - User Management
 - Advanced Reporting
 
-## Author
-
-Mariam Amhan
