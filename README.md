@@ -17,6 +17,23 @@ A desktop stock management application developed using C# and Windows Forms.
 - Critical Stock Filtering
 - Data Storage using TXT Files
 
+## Screenshots
+
+### Login
+![Login Screen](screens/login.png)
+
+### Main Menu
+![Main Menu](screens/main-menu.png)
+
+### Category Management
+![Category Management](screens/category-management.png)
+
+### Product Management
+![Product Management](screens/product-management.png)
+
+### Stock Tracking
+![Stock Tracking](screens/stock-tracking.png)
+
 ## Technologies Used
 
 - C#
@@ -26,10 +43,10 @@ A desktop stock management application developed using C# and Windows Forms.
 
 ## Project Structure
 
-- Data
-- Models
-- UI
-- Forms
+- `Data` – Handles local data storage and file operations
+- `Models` – Contains application data models
+- `UI` – Contains reusable user interface components
+- `Forms` – Contains the main Windows Forms screens
 
 ## Future Improvements
 
