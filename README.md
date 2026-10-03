@@ -2,6 +2,8 @@
 
 A desktop stock management application developed using C# and Windows Forms.
 
+> **Academic Project:** Developed as part of a university course.
+
 ## Features
 
 - User Login System
